@@ -8,12 +8,12 @@
 
 🌱 No momento, estou aprendendo **React JS/React Native**.  
 
-📫 Como me encontrar: **[\[contato.leonardobrahim@gmail.com\]](https://gmail.com) | [\[linkedin\]](https://linkedin.com/in/leonardobrahim)**.
+📫 Como me encontrar: **[\[contato.leonardobrahim@gmail.com\]](https://gmail.com) | [\[linkedin\]](https://www.linkedin.com/in/leonardo-brahim-tavares-837848208/)**.
 
 ## 💡 Projetos em Destaque
 
 ![Portifólio](https://media.licdn.com/dms/image/D4D22AQH97C8ysbra5w/feedshare-shrink_800/0/1680536412122?e=1724284800&v=beta&t=OxaP7APEeKYmJjyb3OMYWzi0LA9VNsK0k4Fmgb2_ndU)
-- [**Portifólio**](https://github.com/seu-usuario/projeto-1): Portifólio criado para demonstrar com projetos minhas habilidades e ambições futuras.
+- [**Portifólio**](https://leonardobrahim.github.io/portfolio-leonardobrahim/): Portifólio criado para demonstrar com projetos minhas habilidades e ambições futuras.
 
 ## 🚀 Minhas Habilidades
 
@@ -39,6 +39,6 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardobrahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-brahim-tavares-837848208/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.leonardobrahim@gmail.com)
 
